@@ -57,7 +57,7 @@
             <h2>Our Team</h2>
             <ul>
                 <li>
-                    <img src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/mark-guerrero.jpg" alt="Mark Guerrero" width="264">
+                    <img [src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/mark-guerrero.jpg"](https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-1.jpeg) alt="Mark Guerrero" width="264">
                     <h3>Mark Guerrero</h3>
                     <p>Product Designer</p>
                 </li>
