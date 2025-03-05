@@ -61,22 +61,38 @@
             <h2>Our Team</h2>
             <ul>
                 <li>
-                    <img src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-1.jpeg" alt="Mark Guerrero" width="264">
+                    <img 
+                    src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-1.jpeg" 
+                    alt="Mark Guerrero" 
+                    width="264"
+                    />
                     <h3>Mark Guerrero</h3>
                     <p>Product Designer</p>
                 </li>
                 <li>
-                    <img src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-2.jpeg" alt="Tom Ford" width="264">
+                    <img 
+                    src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-2.jpeg" 
+                    alt="Tom Ford" 
+                    width="264"
+                    />
                     <h3>Tom Ford</h3>
                     <p>Frontend Developer</p>
                 </li>
                 <li>
-                    <img src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-3.jpeg" alt="Camila Garcia" width="264">
+                    <img 
+                    src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-3.jpeg" 
+                    alt="Camila Garcia" 
+                    width="264"
+                    />
                     <h3>Camila Garcia</h3>
                     <p>Marketing</p>
                 </li>
                 <li>
-                    <img src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-4.jpeg" alt="Daniel Wilson" width="264">
+                    <img 
+                    src="https://alexander-sevtsov.github.io/goit-markup-hw-03/images/our-team/img-4.jpeg" 
+                    alt="Daniel Wilson" 
+                    width="264"
+                    />
                     <h3>Daniel Wilson</h3>
                     <p>UI Designer</p>
                 </li>
