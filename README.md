@@ -76,7 +76,7 @@
                     <p>Marketing</p>
                 </li>
                 <li>
-                    <img <img src="https://s3-alpha-sig.figma.com/img/b38e/c5de/c6daee5d9dff1c4f03f226cbaec0f164?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=aqeNDinF3b~ZLEKV8Jbf7zpqgOtKoFst875ZfxWYw24HErdFcajKDgjnJiqvjUinGhsyeeherqxFOOQoyL7~qeXFFeG5XJpW08CFwDzzmvX0Mcs~T9z14b1vPSaDDU5R-AWzKCAqkkUvMcnlqSIAxigfUlzFI~czrep~GckMmyo3jrPyMbh-4PgZs3gHdfVh03VQv~yXDH1~eVQ0yxeEIMyhUt~yozZaBvPaZFJhImWlQQobdMsPXX51PFk-NJh5uAJr56HybdkMImudhuHy7XVdVlmBvX874RBcXnjJIT1Rrh1aqWPxFzqzZDhJLVcf9RlwvKX5lHxGVLQwxwG8oA__" alt="Daniel Wilson" width="264">
+                    <img src="https://s3-alpha-sig.figma.com/img/b38e/c5de/c6daee5d9dff1c4f03f226cbaec0f164?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=aqeNDinF3b~ZLEKV8Jbf7zpqgOtKoFst875ZfxWYw24HErdFcajKDgjnJiqvjUinGhsyeeherqxFOOQoyL7~qeXFFeG5XJpW08CFwDzzmvX0Mcs~T9z14b1vPSaDDU5R-AWzKCAqkkUvMcnlqSIAxigfUlzFI~czrep~GckMmyo3jrPyMbh-4PgZs3gHdfVh03VQv~yXDH1~eVQ0yxeEIMyhUt~yozZaBvPaZFJhImWlQQobdMsPXX51PFk-NJh5uAJr56HybdkMImudhuHy7XVdVlmBvX874RBcXnjJIT1Rrh1aqWPxFzqzZDhJLVcf9RlwvKX5lHxGVLQwxwG8oA__" alt="Daniel Wilson" width="264">
                     <h3>Daniel Wilson</h3>
                     <p>UI Designer</p>
                 </li>
